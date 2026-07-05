@@ -6,9 +6,9 @@ Support for Docker integration is provided. Alternatively, the executable can be
 Building the exportd binary requires no more dependencies than the C standard library (glibc) and common Linux utilities.  
 # Installation
 Installation requires two steps:
-## 1. Installing Build Dependencies
+### 1. Installing Build Dependencies
 Install the dependencies listed in the previous section.
-## 2. Installing exportd
+### 2. Installing exportd
 Clone the repository, move into the newly created directory, and run the **make build**:
 ```
 git clone https://github.com/sewmo/exportd.git
