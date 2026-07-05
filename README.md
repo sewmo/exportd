@@ -35,4 +35,5 @@ Moreover, the exporter can be ran inside a **Docker container** which provides a
 
 Logs that document the web server's events are provided, as well as logs for the system that is responsible for fetching metrics.  
 # Notes
-Support for TLS will be provided once the web server and metric exporter have been finalized.
+Support for TLS will be provided once the web server and metric exporter have been finalized.  
+The project is not yet finished.
