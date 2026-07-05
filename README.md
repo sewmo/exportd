@@ -1,7 +1,9 @@
 # Overview
 **exportd is a simplistic metric exporter for exposing machine metrics from UNIX-like systems through HTTP endpoints.**  
 The exportd metric exporter is designed to actively monitor various system metrics such as component temperatures, active processes and their resource usage, filesystem statistics, and more.  
+
 Support for Docker integration is provided. Alternatively, the executable can be ran as is, and the process shall ran in the background (daemon).  
+
 The exporter is designed to be compatible with the Prometheus database.  
 # Dependencies
 Building the exportd binary requires no more dependencies than the C standard library (glibc) and common Linux utilities.  
