@@ -2,6 +2,3 @@
 2. Finish making the web server HTTP/1.0 compatible.
 3. Make sure index.html contents are created by the binary.
 
-Unrelated:
-1. Document daily GitHub workflow in Bookstack server. 
-
